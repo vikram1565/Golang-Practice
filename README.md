@@ -1,2 +1,2 @@
 # Golang-Practice
-This repository can contain go lang concepts examples.
+This repository can contain the go lang concepts examples.
