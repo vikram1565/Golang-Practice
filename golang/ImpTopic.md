@@ -11,7 +11,7 @@
 8) Concurrency
 9)  Goroutine with internal working
 10) WaitGroup
-11) Scheduling
+11) Scheduler
 12) Memory allocation (stack and heap)
 13) defer with internal working
     1)  When a new defer method is created, it is attached to the current Goroutine and the previous one is linked to      the new one as the next function to be executed
